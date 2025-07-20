@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+
+# Disallow development and configuration directories
+Disallow: /.git/
+Disallow: /.kiro/
+Disallow: /README.md
+
+# Sitemap location
+Sitemap: https://duckclicker.online/sitemap.xml
